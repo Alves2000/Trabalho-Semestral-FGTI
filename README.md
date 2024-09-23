@@ -12,10 +12,8 @@
         <li>Compartilhamento de Informações, o nosso app disponibiliza o compartilhamento do histórico com o profissional de saúde ou familiares.</li>
         <li>Alerta de Efeitos Colaterais, avisos sobre possíveis efeitos adversos dos medicamentos.</li>
 </ul>  
-        <p>O nosso app proporciona tudo isso com uma interface fácil de usar e de graça.</p>
+        <p>O nosso app proporciona tudo isso com uma interface fácil de usar e gratuito.</p>
 
-</body>
-</html>
 
 </body>
 </html>
